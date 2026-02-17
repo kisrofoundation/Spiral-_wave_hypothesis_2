@@ -1,3 +1,5 @@
+.github/workflows/latex.yml
+
 # Spiral-_wave_hypothesis_2
 
 name: Build and Commit PDF
