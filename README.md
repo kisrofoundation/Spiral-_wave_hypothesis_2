@@ -1,4 +1,4 @@
-
+Add GitHub Action for LaTeX auto build
 name: Build LaTeX PDF
 
 on:
